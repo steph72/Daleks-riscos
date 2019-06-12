@@ -1,0 +1,5 @@
+|Run file for !Shell
+Set Daleks$Dir <Obey$Dir>
+IconSprites <Daleks$Dir>.!Sprites
+WimpSlot -min 512k -max 512k
+Run <Daleks$Dir>.!RunImage

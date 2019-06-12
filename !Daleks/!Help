@@ -1,0 +1,24 @@
+Destroy and escape the daleks!
+
+Use the number pad keys to escape the daleks, like so:
+
+   up &   up    up &
+   left         right
+       \   |   /
+
+         7 8 9
+
+  left - 4   6 - right
+
+         1 2 3
+
+       /   |   \
+  down&   down  down&
+  left          right
+
+
+You also have a teleport device which you can activate by pressing "T".
+
+Daleks destroy themselves when they bump into each other or into a junk pile.
+
+Good luck!
