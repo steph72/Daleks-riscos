@@ -1,2 +1,2 @@
 # Daleks-riscos
-Daleks game for RISC OS. Written in BBC BASIC :)
+Daleks game as a RISC OS desktop application. Written in BBC BASIC :)
